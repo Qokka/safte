@@ -1,4 +1,4 @@
-# SAFTE: flexible fundraising document for both token sale and equity financing
+# Fundraising without ICO: SAFTE— flexible for both token sale and equity financing
 
 Please see my blogs ([Medium](https://medium.com/qokka/safte-flexible-fundraising-document-for-both-token-sale-and-equity-financing-e117eb51dc15), and [Steemit]()) for detailed explanations.
 
