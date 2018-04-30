@@ -1,6 +1,6 @@
 # Fundraising without ICO: SAFTE— flexible for both token sale and equity financing
 
-Please see my blogs ([Medium](https://medium.com/qokka/safte-flexible-fundraising-document-for-both-token-sale-and-equity-financing-e117eb51dc15), and [Steemit]()) for detailed explanations.
+Please see my blogs ([Medium](https://medium.com/qokka/safte-flexible-fundraising-document-for-both-token-sale-and-equity-financing-e117eb51dc15), and [Steemit](https://steemit.com/startup/@aaronqli/fundraising-without-ico-safte-flexible-for-both-token-sale-and-equity-financing)) for detailed explanations.
 
 I created a special fundraising document ([Github](https://github.com/Qokka/safte), [Google Docs](https://docs.google.com/document/d/18IkgSOmbOkcURBVqgaPBz1JZODwMmVQPcCLYJe8mjWI/edit?usp=sharing)) to accommodate both traditional investors who prefer equity financing (e.g. including equity pre-sale, such as [YC's SAFE](https://www.ycombinator.com/documents/)), and progressive crypto investors who may prefer token sales / ICOs. The result enables investors to take advantage of not only the liquidity offered by ICO / token sales (if the company offers one in the future), but also the benefit of equity appreciation and legal protection in traditional equity financing. I asked an attorney to review and revise this document, and I have raised money from multiple investors based on this document.
 
